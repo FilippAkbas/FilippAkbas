@@ -43,8 +43,7 @@ My name is Filipp, I have been doing web development. <br>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 </div>
 
-</tr>
-<tr><td valign="top" width="100%">
+</td><td>
 
 ### CMS  
 <div align="center">  
