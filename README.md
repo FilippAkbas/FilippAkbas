@@ -27,7 +27,7 @@ My name is Filipp, I have been doing web development. <br>
 </br>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 
 
@@ -43,8 +43,8 @@ My name is Filipp, I have been doing web development. <br>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 </div>
 
-</td>
-<td valign="top" width="50%">
+</tr>
+<tr><td valign="top" width="100%">
 
 ### CMS  
 <div align="center">  
@@ -52,8 +52,10 @@ My name is Filipp, I have been doing web development. <br>
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  	
 </div>
+  
+</td></tr>
 
-</td></tr></table>  
+</table>  
 
 <br/>  
 
