@@ -2,10 +2,20 @@
 
 My name is Filipp, I have been doing web development. <br>
 
-**My social networks:**
-[![Telegram Badge](https://img.shields.io/badge/-FilippAkbas-0072b1?style=flat&logo=telegram&logoColor=white&link=https://t.me/FilippAkbas)](https://t.me/FilippAkbas) 
-[![Linkedin Badge](https://img.shields.io/badge/-FilippAkbas-0a66c2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/filipp-akbas/)](https://www.linkedin.com/in/filipp-akbas/) 
-[![Github Badge](https://img.shields.io/badge/-FilippAkbas-grey?style=flat&logo=github&logoColor=white&link=https://github.com/FilippAkbas/)](https://www.github.com/FilippAkbas/)<br>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/FilippAkbas" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/FilippAkbas" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/FilippAkbas" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+</br>
 
 - 🖥  Web-developer (CMS/Front-end)<br>
 
