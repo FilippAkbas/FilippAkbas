@@ -27,7 +27,7 @@ My name is Filipp, I have been doing web development. <br>
 </br>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="100%">
+<table width="100%"><tr width="100%"><td valign="top" width="100%">
 
 
 
